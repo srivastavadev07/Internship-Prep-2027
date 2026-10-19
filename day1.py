@@ -63,13 +63,13 @@
 
 
 
-numbers = [12, 5, 28, 9, 17]
-count = 0
+# numbers = [12, 5, 28, 9, 17]
+# count = 0
 
-for number in numbers:
-    if number % 2 == 0:
-        count = count + 1
+# for number in numbers:
+#     if number % 2 == 0:
+#         count = count + 1
 
-print("Even numbers:", count)
+# print("Even numbers:", count)
 
 
