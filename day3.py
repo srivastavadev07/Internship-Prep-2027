@@ -27,3 +27,16 @@
 #     print(f"{b} is the greatest number")
 # else:
 #     print(f"{c} is the greatest number")
+
+
+# mark = int(input("Enter your marks: "))
+# if(mark>=90):
+#     print("You got an A grade")
+# elif(mark>=80):
+#     print("You got a B grade")
+# elif(mark>=70):
+#     print("You got a C grade")
+# elif(mark>=60): 
+#     print("You got a D grade")      
+# else:
+#     print("You got an F grade")
