@@ -1,4 +1,4 @@
-i = 1
-while i <= 10:
-    print(i)
-    i += 1
+def fact(num):
+    for i in range(1, num + 1):
+        print(i)
+fact(4)
