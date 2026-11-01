@@ -24,12 +24,12 @@
 
 
 
-def fact(num):
-    i = 1
-    factorial = 1
-    while i <= num:
-        factorial *= i
-        i += 1
-    return factorial
+# def fact(num):
+#     i = 1
+#     factorial = 1
+#     while i <= num:
+#         factorial *= i
+#         i += 1
+#     return factorial
 
-print(fact(4))
+# print(fact(4))
