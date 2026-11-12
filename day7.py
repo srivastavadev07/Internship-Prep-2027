@@ -40,8 +40,8 @@ my_tuple = (10, 20, 30)
 # my_tuple[0] = 100  # TypeError
 
 # SET(remove duplicates)
-numbers = {10, 20, 20, 30, 30, 40}
-print(numbers)
+# numbers = {10, 20, 20, 30, 30, 40}
+# print(numbers)
 
 # Check set operations
 # set1 = {1, 2, 3}
