@@ -19,21 +19,21 @@ for value in values:
 
 
 
-def search(root, target):
+# def search(root, target):
 
-    if root is None:
-        return False
+#     if root is None:
+#         return False
 
-    if root.data == target:
-        return True
+#     if root.data == target:
+#         return True
 
-    if target < root.data:
-        return search(root.left, target)
+#     if target < root.data:
+#         return search(root.left, target)
 
-    return search(root.right, target)
-
-
+#     return search(root.right, target)
 
 
-print(search(root, 40))  # True
-print(search(root, 90))  # False
+
+
+# print(search(root, 40))  # True
+# print(search(root, 90))  # False
