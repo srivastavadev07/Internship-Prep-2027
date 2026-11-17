@@ -7,15 +7,15 @@
 
 
 
-student = {
-    "name": "Dev",
-    "age": 20,
-    "branch": "AIML"
-}
-print(student["name"])
-student["age"] = 21
-student["college"] = "Engineering College"
-print(student)
+# student = {
+#     "name": "Dev",
+#     "age": 20,
+#     "branch": "AIML"
+# }
+# print(student["name"])
+# student["age"] = 21
+# student["college"] = "Engineering College"
+# print(student)
 
 
 
