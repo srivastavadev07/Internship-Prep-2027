@@ -47,14 +47,14 @@ while low <= high:
 
 
     
-numbers = [5, 3, 8, 1, 2]
+# numbers = [5, 3, 8, 1, 2]
 
-n = len(numbers)
+# n = len(numbers)
 
-for i in range(n):
-    for j in range(n - i - 1):
+# for i in range(n):
+#     for j in range(n - i - 1):
 
-        if numbers[j] > numbers[j + 1]:
-            numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
+#         if numbers[j] > numbers[j + 1]:
+#             numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
 
-print(numbers)
+# print(numbers)
