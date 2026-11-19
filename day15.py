@@ -27,15 +27,15 @@ inorder_traversal(root)
 
 
 
-def search_bst(root, target):
+# def search_bst(root, target):
 
-    if root is None:
-        return False
+#     if root is None:
+#         return False
 
-    if root.data == target:
-        return True
+#     if root.data == target:
+#         return True
 
-    if target < root.data:
-        return search_bst(root.left, target)
+#     if target < root.data:
+#         return search_bst(root.left, target)
 
-    return search_bst(root.right, target)
+#     return search_bst(root.right, target)
