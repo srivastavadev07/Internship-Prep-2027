@@ -1,16 +1,16 @@
-stack = []
-# Push elements
-stack.append(10)
-stack.append(20)
-stack.append(30)
-print(stack)
+# stack = []
+# # Push elements
+# stack.append(10)
+# stack.append(20)
+# stack.append(30)
+# print(stack)
 
-# View top element
-print(stack[-1])
+# # View top element
+# print(stack[-1])
 
-# Remove top element
-stack.pop()
-print(stack)
+# # Remove top element
+# stack.pop()
+# print(stack)
 
 
 
